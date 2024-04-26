@@ -1,9 +1,9 @@
 Overview
-========
+-----------
 This is a data pipeline that retrieves data from a PostgreSQL database, and then loads that data into a Snowflake Database.
 
 Built With
-==========
+-------------
 1. Airflow
 2. PostgreSQL
 3. AWS S3
@@ -12,7 +12,7 @@ Built With
 
 
 Setup the Project Locally
-===========================
+----------------------------
 1. Clone the repo using:
     git clone <<curr-repo.git>>
 
