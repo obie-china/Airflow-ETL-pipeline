@@ -14,12 +14,12 @@ Built With
 Setup the Project Locally
 ----------------------------
 1. Clone the repo using:
-    git clone <<curr-repo.git>>
+    ```git clone <<curr-repo.git>>```
 
 2. Build the docker image:
-    docker build Dockerfile
+    ```docker build Dockerfile```
 
 3. Access the aiflow UI:
-    http://localhost:8080
+    ```http://localhost:8080```
 
 4. In te airflow UI enter connections for AWS, Snowflake and postgres
