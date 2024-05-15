@@ -1,6 +1,6 @@
 Overview
 -----------
-This is a data pipeline that retrieves data from a PostgreSQL database, and then loads that data into a Snowflake Database.
+This is a data pipeline that implements change data capture, retrieving data from a PostgreSQL database, and then loads that data into a Snowflake Database.
 
 Built With
 -------------
